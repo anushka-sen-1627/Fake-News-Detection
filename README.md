@@ -1,5 +1,5 @@
 # Fake-News-Detection-App
-Fake News Detection App is a web application which is used to check the authenticity and credibility of a news article or a news headline.
+Fake News Detection App is a web application which is used to check the authenticity and credibility of a news article or a news headlines.
 
 ## Screenshots
 
